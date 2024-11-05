@@ -1,0 +1,17 @@
+null
+null,1,2,N,N
+do,1,2,N,N
+,1,2,N,N
+D,0,2,N,N
+D,3,2,N,N
+D,1,0,N,N
+D,1,51,N,N
+D,1,2,null,N
+D,1,2,yes,N
+D,1,2,,N
+D,1,2,N,null
+D,1,2,N,no
+D,1,2,Y,N
+D,1,2,N,Y
+
+
